@@ -1,0 +1,4 @@
+boto3==1.43.118
+duckdb==2.0.0
+psutil==7.2.2
+python-dotenv==1.2.4

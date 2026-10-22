@@ -1,0 +1,46 @@
+﻿region,k,skills,vacancies,salary_n,median_salary
+Москва,1,java,1692,287,250000.0
+Москва,1,spring framework,963,152,250000.0
+Москва,1,postgresql,788,130,250000.0
+Москва,1,kafka,520,77,250000.0
+Москва,1,sql,518,115,250000.0
+Москва,2,java + spring framework,898,145,250000.0
+Москва,2,java + postgresql,714,123,250000.0
+Москва,2,java + spring boot,485,88,245000.0
+Москва,2,java + kafka,478,70,250000.0
+Москва,2,java + sql,478,102,250000.0
+Москва,3,java + postgresql + spring framework,437,77,250000.0
+Москва,3,java + spring framework + sql,283,59,250000.0
+Москва,3,java + kafka + spring framework,282,37,250000.0
+Москва,3,java + kafka + postgresql,255,42,250000.0
+Москва,3,java + postgresql + spring boot,246,45,250000.0
+Санкт-Петербург,1,java,475,98,210000.0
+Санкт-Петербург,1,spring framework,275,60,240000.0
+Санкт-Петербург,1,postgresql,223,44,192500.0
+Санкт-Петербург,1,git,139,43,185000.0
+Санкт-Петербург,1,spring boot,129,32,245000.0
+Санкт-Петербург,2,java + spring framework,256,52,235000.0
+Санкт-Петербург,2,java + postgresql,212,44,192500.0
+Санкт-Петербург,2,postgresql + spring framework,146,27,230000.0
+Санкт-Петербург,2,git + java,129,41,200000.0
+Санкт-Петербург,2,java + spring boot,123,32,245000.0
+Санкт-Петербург,3,java + postgresql + spring framework,140,27,230000.0
+Санкт-Петербург,3,git + java + spring framework,84,28,200000.0
+Санкт-Петербург,3,java + postgresql + spring boot,68,15,250000.0
+Санкт-Петербург,3,git + java + postgresql,60,20,215000.0
+Санкт-Петербург,3,java + spring framework + sql,60,16,250000.0
+Новосибирск,1,java,174,38,182500.0
+Новосибирск,1,spring framework,96,18,200000.0
+Новосибирск,1,postgresql,78,22,192500.0
+Новосибирск,1,git,63,20,200000.0
+Новосибирск,1,sql,54,15,200000.0
+Новосибирск,2,java + spring framework,94,18,200000.0
+Новосибирск,2,java + postgresql,75,21,200000.0
+Новосибирск,2,git + java,58,17,200000.0
+Новосибирск,2,java + sql,50,14,200000.0
+Новосибирск,2,postgresql + spring framework,50,14,200000.0
+Новосибирск,3,java + postgresql + spring framework,49,14,200000.0
+Новосибирск,3,git + java + spring framework,41,12,177500.0
+Новосибирск,3,hibernate orm + java + spring framework,41,10,207500.0
+Новосибирск,3,git + java + postgresql,35,14,200000.0
+Новосибирск,3,java + spring framework + sql,30,10,200000.0

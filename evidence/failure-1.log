@@ -1,0 +1,5 @@
+Test: mapper failed before emitting its result; retry the uncommitted chunk
+failure: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377

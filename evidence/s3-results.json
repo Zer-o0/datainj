@@ -1,0 +1,56 @@
+[
+  {
+    "key": "results/java/mapreduce/skills_1.json",
+    "bytes": 53695,
+    "sha256": "736438cc2fe9b2253e4d30027dcd59cc85c38e202c9f4fcacc4180b277e19718",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/mapreduce/skills_2.json",
+    "bytes": 936440,
+    "sha256": "05e0229d25202e51ee537bbea4d7b283a71db1c0ea2995fd8569fcbafde6bf9d",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/mapreduce/skills_3.json",
+    "bytes": 7218591,
+    "sha256": "2a87ba6ab4d17fdb0ca023d57245fe36cacf719925eb8c6a3fce838ae95c8bdc",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/duckdb/skills_1.json",
+    "bytes": 53695,
+    "sha256": "736438cc2fe9b2253e4d30027dcd59cc85c38e202c9f4fcacc4180b277e19718",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/duckdb/skills_2.json",
+    "bytes": 936440,
+    "sha256": "05e0229d25202e51ee537bbea4d7b283a71db1c0ea2995fd8569fcbafde6bf9d",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/duckdb/skills_3.json",
+    "bytes": 7218591,
+    "sha256": "2a87ba6ab4d17fdb0ca023d57245fe36cacf719925eb8c6a3fce838ae95c8bdc",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/duckdb_optimized/skills_1.json",
+    "bytes": 53695,
+    "sha256": "736438cc2fe9b2253e4d30027dcd59cc85c38e202c9f4fcacc4180b277e19718",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/duckdb_optimized/skills_2.json",
+    "bytes": 936440,
+    "sha256": "05e0229d25202e51ee537bbea4d7b283a71db1c0ea2995fd8569fcbafde6bf9d",
+    "get_verified": true
+  },
+  {
+    "key": "results/java/duckdb_optimized/skills_3.json",
+    "bytes": 7218591,
+    "sha256": "2a87ba6ab4d17fdb0ca023d57245fe36cacf719925eb8c6a3fce838ae95c8bdc",
+    "get_verified": true
+  }
+]

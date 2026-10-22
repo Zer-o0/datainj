@@ -1,0 +1,88 @@
+mapreduce: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "mapreduce", "attempt": 1, "seconds": 27.471185499991407, "peak_rss_bytes": 240222208, "samples": 945}
+duckdb: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "duckdb", "attempt": 1, "seconds": 17.694585299992468, "peak_rss_bytes": 1602170880, "samples": 605}
+duckdb_optimized: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "duckdb_optimized", "attempt": 1, "seconds": 12.936873700004071, "peak_rss_bytes": 1430110208, "samples": 455}
+duckdb: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "duckdb", "attempt": 2, "seconds": 14.621828599993023, "peak_rss_bytes": 1575489536, "samples": 536}
+duckdb_optimized: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "duckdb_optimized", "attempt": 2, "seconds": 13.156461199992918, "peak_rss_bytes": 1429348352, "samples": 469}
+mapreduce: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "mapreduce", "attempt": 2, "seconds": 18.262873300001957, "peak_rss_bytes": 231968768, "samples": 680}
+duckdb_optimized: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "duckdb_optimized", "attempt": 3, "seconds": 12.539305300000706, "peak_rss_bytes": 1429876736, "samples": 453}
+mapreduce: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "mapreduce", "attempt": 3, "seconds": 18.779316400003154, "peak_rss_bytes": 217604096, "samples": 695}
+duckdb: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "duckdb", "attempt": 3, "seconds": 14.501430299991625, "peak_rss_bytes": 1564577792, "samples": 532}
+Test: mapper failed before emitting its result; retry the uncommitted chunk
+failure: 6100 Java vacancies
+k=1: unique=1069, occurrences=27086
+k=2: unique=15755, occurrences=104741
+k=3: unique=103138, occurrences=323377
+{"method": "failure", "attempt": 1, "seconds": 19.513139399990905, "peak_rss_bytes": 217178112, "samples": 721}
+{
+  "selected_rows": 6100,
+  "successful_trials": 9,
+  "selected_ids_equal": true,
+  "checks": [
+    {
+      "k": 1,
+      "unique": 1069,
+      "occurrences": 27086,
+      "combinations_formula": 27086,
+      "full_dictionary_equal": true
+    },
+    {
+      "k": 2,
+      "unique": 15755,
+      "occurrences": 104741,
+      "combinations_formula": 104741,
+      "full_dictionary_equal": true
+    },
+    {
+      "k": 3,
+      "unique": 103138,
+      "occurrences": 323377,
+      "combinations_formula": 323377,
+      "full_dictionary_equal": true
+    }
+  ],
+  "mapper_failure_retried": true,
+  "retry_result_equal": true,
+  "failure_measurement": {
+    "method": "failure",
+    "attempt": 1,
+    "seconds": 19.513139399990905,
+    "peak_rss_bytes": 217178112,
+    "samples": 721
+  }
+}

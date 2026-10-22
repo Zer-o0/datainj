@@ -1,0 +1,37 @@
+{
+  "selected_rows": 6100,
+  "successful_trials": 9,
+  "selected_ids_equal": true,
+  "checks": [
+    {
+      "k": 1,
+      "unique": 1069,
+      "occurrences": 27086,
+      "combinations_formula": 27086,
+      "full_dictionary_equal": true
+    },
+    {
+      "k": 2,
+      "unique": 15755,
+      "occurrences": 104741,
+      "combinations_formula": 104741,
+      "full_dictionary_equal": true
+    },
+    {
+      "k": 3,
+      "unique": 103138,
+      "occurrences": 323377,
+      "combinations_formula": 323377,
+      "full_dictionary_equal": true
+    }
+  ],
+  "mapper_failure_retried": true,
+  "retry_result_equal": true,
+  "failure_measurement": {
+    "method": "failure",
+    "attempt": 1,
+    "seconds": 19.513139399990905,
+    "peak_rss_bytes": 217178112,
+    "samples": 721
+  }
+}

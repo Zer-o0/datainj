@@ -1,0 +1,12 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "cpu": "Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+  "physical_cores": 16,
+  "logical_cores": 22,
+  "ram_bytes": 16550875136,
+  "duckdb": "2.0.0",
+  "memory": "Peak sampled sum of Python worker + mapper RSS; polling 10 ms; RustFS not included",
+  "timing": "Fresh process wall time: imports, S3 reads, calculation, JSON serialization",
+  "cache": "OS and RustFS caches not cleared; methods sequential; rotated order; first trial included"
+}

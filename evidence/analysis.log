@@ -1,0 +1,2 @@
+Salary sample: {'n': 859, 'median_salary': 200000.0}
+Regions: [{'region': 'Москва', 'vacancies': 3030, 'without_skills': 1150, 'salary_n': 417, 'median_salary': 230000.0}, {'region': 'Санкт-Петербург', 'vacancies': 801, 'without_skills': 286, 'salary_n': 134, 'median_salary': 200000.0}, {'region': 'Новосибирск', 'vacancies': 271, 'without_skills': 87, 'salary_n': 49, 'median_salary': 185000.0}]

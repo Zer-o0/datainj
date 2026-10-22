@@ -1,0 +1,1198 @@
+{
+  "overall": {
+    "n": 859,
+    "median_salary": 200000.0
+  },
+  "salary_breakdown": [
+    {
+      "currency": null,
+      "gross": null,
+      "vacancies": 4777
+    },
+    {
+      "currency": "RUR",
+      "gross": "false",
+      "vacancies": 859
+    },
+    {
+      "currency": "RUR",
+      "gross": "true",
+      "vacancies": 411
+    },
+    {
+      "currency": "USD",
+      "gross": "false",
+      "vacancies": 35
+    },
+    {
+      "currency": "USD",
+      "gross": "true",
+      "vacancies": 9
+    },
+    {
+      "currency": "EUR",
+      "gross": "true",
+      "vacancies": 6
+    },
+    {
+      "currency": "EUR",
+      "gross": "false",
+      "vacancies": 1
+    },
+    {
+      "currency": "BYR",
+      "gross": "true",
+      "vacancies": 1
+    },
+    {
+      "currency": "KZT",
+      "gross": "false",
+      "vacancies": 1
+    }
+  ],
+  "extremes": {
+    "2": {
+      "increase": [
+        {
+          "k": 2,
+          "skills": [
+            "gradle",
+            "microservices"
+          ],
+          "base": [
+            "gradle"
+          ],
+          "base_frequency": 161,
+          "frequency": 10,
+          "base_salary_n": 31,
+          "salary_n": 6,
+          "base_median": 200000.0,
+          "median": 400000.0,
+          "delta": 200000.0,
+          "delta_percent": 100.0
+        },
+        {
+          "k": 2,
+          "skills": [
+            "hibernate orm",
+            "rabbitmq"
+          ],
+          "base": [
+            "hibernate orm"
+          ],
+          "base_frequency": 668,
+          "frequency": 60,
+          "base_salary_n": 107,
+          "salary_n": 8,
+          "base_median": 200000.0,
+          "median": 390000.0,
+          "delta": 190000.0,
+          "delta_percent": 95.0
+        },
+        {
+          "k": 2,
+          "skills": [
+            "apache maven",
+            "ооп"
+          ],
+          "base": [
+            "ооп"
+          ],
+          "base_frequency": 535,
+          "frequency": 28,
+          "base_salary_n": 55,
+          "salary_n": 8,
+          "base_median": 120000.0,
+          "median": 225000.0,
+          "delta": 105000.0,
+          "delta_percent": 87.5
+        },
+        {
+          "k": 2,
+          "skills": [
+            "spring",
+            "spring framework"
+          ],
+          "base": [
+            "spring framework"
+          ],
+          "base_frequency": 2090,
+          "frequency": 68,
+          "base_salary_n": 320,
+          "salary_n": 11,
+          "base_median": 213750.0,
+          "median": 400000.0,
+          "delta": 186250.0,
+          "delta_percent": 87.1345029239766
+        },
+        {
+          "k": 2,
+          "skills": [
+            "microservices",
+            "postgresql"
+          ],
+          "base": [
+            "postgresql"
+          ],
+          "base_frequency": 1747,
+          "frequency": 69,
+          "base_salary_n": 299,
+          "salary_n": 17,
+          "base_median": 200000.0,
+          "median": 335000.0,
+          "delta": 135000.0,
+          "delta_percent": 67.5
+        }
+      ],
+      "decrease": [
+        {
+          "k": 2,
+          "skills": [
+            "html",
+            "typescript"
+          ],
+          "base": [
+            "html"
+          ],
+          "base_frequency": 116,
+          "frequency": 7,
+          "base_salary_n": 27,
+          "salary_n": 5,
+          "base_median": 150000.0,
+          "median": 40000.0,
+          "delta": -110000.0,
+          "delta_percent": -73.33333333333334
+        },
+        {
+          "k": 2,
+          "skills": [
+            "git",
+            "mockito"
+          ],
+          "base": [
+            "git"
+          ],
+          "base_frequency": 1045,
+          "frequency": 24,
+          "base_salary_n": 230,
+          "salary_n": 7,
+          "base_median": 200000.0,
+          "median": 60000.0,
+          "delta": -140000.0,
+          "delta_percent": -70.0
+        },
+        {
+          "k": 2,
+          "skills": [
+            "git",
+            "spring web"
+          ],
+          "base": [
+            "git"
+          ],
+          "base_frequency": 1045,
+          "frequency": 8,
+          "base_salary_n": 230,
+          "salary_n": 5,
+          "base_median": 200000.0,
+          "median": 65000.0,
+          "delta": -135000.0,
+          "delta_percent": -67.5
+        },
+        {
+          "k": 2,
+          "skills": [
+            "mockito",
+            "spring framework"
+          ],
+          "base": [
+            "spring framework"
+          ],
+          "base_frequency": 2090,
+          "frequency": 26,
+          "base_salary_n": 320,
+          "salary_n": 7,
+          "base_median": 213750.0,
+          "median": 70000.0,
+          "delta": -143750.0,
+          "delta_percent": -67.2514619883041
+        },
+        {
+          "k": 2,
+          "skills": [
+            "hibernate",
+            "spring security"
+          ],
+          "base": [
+            "hibernate"
+          ],
+          "base_frequency": 317,
+          "frequency": 6,
+          "base_salary_n": 64,
+          "salary_n": 5,
+          "base_median": 205000.0,
+          "median": 70000.0,
+          "delta": -135000.0,
+          "delta_percent": -65.85365853658536
+        }
+      ]
+    },
+    "3": {
+      "increase": [
+        {
+          "k": 3,
+          "skills": [
+            "java",
+            "solid",
+            "ооп"
+          ],
+          "base": [
+            "java",
+            "ооп"
+          ],
+          "base_frequency": 519,
+          "frequency": 13,
+          "base_salary_n": 46,
+          "salary_n": 5,
+          "base_median": 102500.0,
+          "median": 270000.0,
+          "delta": 167500.0,
+          "delta_percent": 163.41463414634148
+        },
+        {
+          "k": 3,
+          "skills": [
+            "apache maven",
+            "java",
+            "ооп"
+          ],
+          "base": [
+            "java",
+            "ооп"
+          ],
+          "base_frequency": 519,
+          "frequency": 27,
+          "base_salary_n": 46,
+          "salary_n": 7,
+          "base_median": 102500.0,
+          "median": 225000.0,
+          "delta": 122500.0,
+          "delta_percent": 119.51219512195124
+        },
+        {
+          "k": 3,
+          "skills": [
+            "apache kafka",
+            "rest",
+            "soap"
+          ],
+          "base": [
+            "rest",
+            "soap"
+          ],
+          "base_frequency": 97,
+          "frequency": 14,
+          "base_salary_n": 25,
+          "salary_n": 5,
+          "base_median": 200000.0,
+          "median": 420000.0,
+          "delta": 220000.0,
+          "delta_percent": 110.00000000000001
+        },
+        {
+          "k": 3,
+          "skills": [
+            "hibernate orm",
+            "postgresql",
+            "rabbitmq"
+          ],
+          "base": [
+            "hibernate orm",
+            "postgresql"
+          ],
+          "base_frequency": 441,
+          "frequency": 51,
+          "base_salary_n": 70,
+          "salary_n": 8,
+          "base_median": 190000.0,
+          "median": 390000.0,
+          "delta": 200000.0,
+          "delta_percent": 105.26315789473686
+        },
+        {
+          "k": 3,
+          "skills": [
+            "apache maven",
+            "hibernate orm",
+            "rabbitmq"
+          ],
+          "base": [
+            "apache maven",
+            "hibernate orm"
+          ],
+          "base_frequency": 94,
+          "frequency": 16,
+          "base_salary_n": 37,
+          "salary_n": 6,
+          "base_median": 210000.0,
+          "median": 420000.0,
+          "delta": 210000.0,
+          "delta_percent": 100.0
+        }
+      ],
+      "decrease": [
+        {
+          "k": 3,
+          "skills": [
+            "javascript",
+            "react",
+            "typescript"
+          ],
+          "base": [
+            "javascript",
+            "react"
+          ],
+          "base_frequency": 99,
+          "frequency": 10,
+          "base_salary_n": 9,
+          "salary_n": 5,
+          "base_median": 170000.0,
+          "median": 40000.0,
+          "delta": -130000.0,
+          "delta_percent": -76.47058823529412
+        },
+        {
+          "k": 3,
+          "skills": [
+            "git",
+            "java se",
+            "sql"
+          ],
+          "base": [
+            "git",
+            "sql"
+          ],
+          "base_frequency": 447,
+          "frequency": 32,
+          "base_salary_n": 114,
+          "salary_n": 7,
+          "base_median": 200000.0,
+          "median": 50000.0,
+          "delta": -150000.0,
+          "delta_percent": -75.0
+        },
+        {
+          "k": 3,
+          "skills": [
+            "postgresql",
+            "spring boot",
+            "spring web"
+          ],
+          "base": [
+            "postgresql",
+            "spring boot"
+          ],
+          "base_frequency": 513,
+          "frequency": 7,
+          "base_salary_n": 102,
+          "salary_n": 5,
+          "base_median": 240000.0,
+          "median": 70000.0,
+          "delta": -170000.0,
+          "delta_percent": -70.83333333333333
+        },
+        {
+          "k": 3,
+          "skills": [
+            "hibernate",
+            "spring boot",
+            "spring security"
+          ],
+          "base": [
+            "hibernate",
+            "spring boot"
+          ],
+          "base_frequency": 135,
+          "frequency": 6,
+          "base_salary_n": 39,
+          "salary_n": 5,
+          "base_median": 235000.0,
+          "median": 70000.0,
+          "delta": -165000.0,
+          "delta_percent": -70.2127659574468
+        },
+        {
+          "k": 3,
+          "skills": [
+            "git",
+            "java",
+            "mockito"
+          ],
+          "base": [
+            "git",
+            "java"
+          ],
+          "base_frequency": 959,
+          "frequency": 23,
+          "base_salary_n": 202,
+          "salary_n": 7,
+          "base_median": 200000.0,
+          "median": 60000.0,
+          "delta": -140000.0,
+          "delta_percent": -70.0
+        }
+      ]
+    }
+  },
+  "regions": [
+    {
+      "region": "Москва",
+      "vacancies": 3030,
+      "without_skills": 1150,
+      "salary_n": 417,
+      "median_salary": 230000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "vacancies": 801,
+      "without_skills": 286,
+      "salary_n": 134,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "vacancies": 271,
+      "without_skills": 87,
+      "salary_n": 49,
+      "median_salary": 185000.0
+    }
+  ],
+  "regional_stacks": [
+    {
+      "region": "Москва",
+      "k": 1,
+      "skills": [
+        "java"
+      ],
+      "vacancies": 1692,
+      "salary_n": 287,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 1,
+      "skills": [
+        "spring framework"
+      ],
+      "vacancies": 963,
+      "salary_n": 152,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 1,
+      "skills": [
+        "postgresql"
+      ],
+      "vacancies": 788,
+      "salary_n": 130,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 1,
+      "skills": [
+        "kafka"
+      ],
+      "vacancies": 520,
+      "salary_n": 77,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 1,
+      "skills": [
+        "sql"
+      ],
+      "vacancies": 518,
+      "salary_n": 115,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 2,
+      "skills": [
+        "java",
+        "spring framework"
+      ],
+      "vacancies": 898,
+      "salary_n": 145,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 2,
+      "skills": [
+        "java",
+        "postgresql"
+      ],
+      "vacancies": 714,
+      "salary_n": 123,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 2,
+      "skills": [
+        "java",
+        "spring boot"
+      ],
+      "vacancies": 485,
+      "salary_n": 88,
+      "median_salary": 245000.0
+    },
+    {
+      "region": "Москва",
+      "k": 2,
+      "skills": [
+        "java",
+        "kafka"
+      ],
+      "vacancies": 478,
+      "salary_n": 70,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 2,
+      "skills": [
+        "java",
+        "sql"
+      ],
+      "vacancies": 478,
+      "salary_n": 102,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 3,
+      "skills": [
+        "java",
+        "postgresql",
+        "spring framework"
+      ],
+      "vacancies": 437,
+      "salary_n": 77,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 3,
+      "skills": [
+        "java",
+        "spring framework",
+        "sql"
+      ],
+      "vacancies": 283,
+      "salary_n": 59,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 3,
+      "skills": [
+        "java",
+        "kafka",
+        "spring framework"
+      ],
+      "vacancies": 282,
+      "salary_n": 37,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 3,
+      "skills": [
+        "java",
+        "kafka",
+        "postgresql"
+      ],
+      "vacancies": 255,
+      "salary_n": 42,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Москва",
+      "k": 3,
+      "skills": [
+        "java",
+        "postgresql",
+        "spring boot"
+      ],
+      "vacancies": 246,
+      "salary_n": 45,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 1,
+      "skills": [
+        "java"
+      ],
+      "vacancies": 475,
+      "salary_n": 98,
+      "median_salary": 210000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 1,
+      "skills": [
+        "spring framework"
+      ],
+      "vacancies": 275,
+      "salary_n": 60,
+      "median_salary": 240000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 1,
+      "skills": [
+        "postgresql"
+      ],
+      "vacancies": 223,
+      "salary_n": 44,
+      "median_salary": 192500.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 1,
+      "skills": [
+        "git"
+      ],
+      "vacancies": 139,
+      "salary_n": 43,
+      "median_salary": 185000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 1,
+      "skills": [
+        "spring boot"
+      ],
+      "vacancies": 129,
+      "salary_n": 32,
+      "median_salary": 245000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 2,
+      "skills": [
+        "java",
+        "spring framework"
+      ],
+      "vacancies": 256,
+      "salary_n": 52,
+      "median_salary": 235000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 2,
+      "skills": [
+        "java",
+        "postgresql"
+      ],
+      "vacancies": 212,
+      "salary_n": 44,
+      "median_salary": 192500.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 2,
+      "skills": [
+        "postgresql",
+        "spring framework"
+      ],
+      "vacancies": 146,
+      "salary_n": 27,
+      "median_salary": 230000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 2,
+      "skills": [
+        "git",
+        "java"
+      ],
+      "vacancies": 129,
+      "salary_n": 41,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 2,
+      "skills": [
+        "java",
+        "spring boot"
+      ],
+      "vacancies": 123,
+      "salary_n": 32,
+      "median_salary": 245000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 3,
+      "skills": [
+        "java",
+        "postgresql",
+        "spring framework"
+      ],
+      "vacancies": 140,
+      "salary_n": 27,
+      "median_salary": 230000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 3,
+      "skills": [
+        "git",
+        "java",
+        "spring framework"
+      ],
+      "vacancies": 84,
+      "salary_n": 28,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 3,
+      "skills": [
+        "java",
+        "postgresql",
+        "spring boot"
+      ],
+      "vacancies": 68,
+      "salary_n": 15,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 3,
+      "skills": [
+        "git",
+        "java",
+        "postgresql"
+      ],
+      "vacancies": 60,
+      "salary_n": 20,
+      "median_salary": 215000.0
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 3,
+      "skills": [
+        "java",
+        "spring framework",
+        "sql"
+      ],
+      "vacancies": 60,
+      "salary_n": 16,
+      "median_salary": 250000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 1,
+      "skills": [
+        "java"
+      ],
+      "vacancies": 174,
+      "salary_n": 38,
+      "median_salary": 182500.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 1,
+      "skills": [
+        "spring framework"
+      ],
+      "vacancies": 96,
+      "salary_n": 18,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 1,
+      "skills": [
+        "postgresql"
+      ],
+      "vacancies": 78,
+      "salary_n": 22,
+      "median_salary": 192500.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 1,
+      "skills": [
+        "git"
+      ],
+      "vacancies": 63,
+      "salary_n": 20,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 1,
+      "skills": [
+        "sql"
+      ],
+      "vacancies": 54,
+      "salary_n": 15,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 2,
+      "skills": [
+        "java",
+        "spring framework"
+      ],
+      "vacancies": 94,
+      "salary_n": 18,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 2,
+      "skills": [
+        "java",
+        "postgresql"
+      ],
+      "vacancies": 75,
+      "salary_n": 21,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 2,
+      "skills": [
+        "git",
+        "java"
+      ],
+      "vacancies": 58,
+      "salary_n": 17,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 2,
+      "skills": [
+        "java",
+        "sql"
+      ],
+      "vacancies": 50,
+      "salary_n": 14,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 2,
+      "skills": [
+        "postgresql",
+        "spring framework"
+      ],
+      "vacancies": 50,
+      "salary_n": 14,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 3,
+      "skills": [
+        "java",
+        "postgresql",
+        "spring framework"
+      ],
+      "vacancies": 49,
+      "salary_n": 14,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 3,
+      "skills": [
+        "git",
+        "java",
+        "spring framework"
+      ],
+      "vacancies": 41,
+      "salary_n": 12,
+      "median_salary": 177500.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 3,
+      "skills": [
+        "hibernate orm",
+        "java",
+        "spring framework"
+      ],
+      "vacancies": 41,
+      "salary_n": 10,
+      "median_salary": 207500.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 3,
+      "skills": [
+        "git",
+        "java",
+        "postgresql"
+      ],
+      "vacancies": 35,
+      "salary_n": 14,
+      "median_salary": 200000.0
+    },
+    {
+      "region": "Новосибирск",
+      "k": 3,
+      "skills": [
+        "java",
+        "spring framework",
+        "sql"
+      ],
+      "vacancies": 30,
+      "salary_n": 10,
+      "median_salary": 200000.0
+    }
+  ],
+  "regional_counts": [
+    {
+      "region": "Москва",
+      "k": 1,
+      "occurrences": 11988,
+      "unique_stacks": 773
+    },
+    {
+      "region": "Москва",
+      "k": 2,
+      "occurrences": 45278,
+      "unique_stacks": 10401
+    },
+    {
+      "region": "Москва",
+      "k": 3,
+      "occurrences": 140633,
+      "unique_stacks": 63020
+    },
+    {
+      "region": "Новосибирск",
+      "k": 1,
+      "occurrences": 1204,
+      "unique_stacks": 186
+    },
+    {
+      "region": "Новосибирск",
+      "k": 2,
+      "occurrences": 4621,
+      "unique_stacks": 1817
+    },
+    {
+      "region": "Новосибирск",
+      "k": 3,
+      "occurrences": 15247,
+      "unique_stacks": 9388
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 1,
+      "occurrences": 3528,
+      "unique_stacks": 371
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 2,
+      "occurrences": 14100,
+      "unique_stacks": 4480
+    },
+    {
+      "region": "Санкт-Петербург",
+      "k": 3,
+      "occurrences": 45226,
+      "unique_stacks": 24966
+    }
+  ],
+  "cohorts": [
+    {
+      "k": 2,
+      "direction": "increase",
+      "skills": [
+        "gradle",
+        "microservices"
+      ],
+      "groups": {
+        "base": [
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 23,
+            "median_salary": 250000.0
+          },
+          {
+            "experience": "От 1 года до 3 лет",
+            "n": 6,
+            "median_salary": 167500.0
+          },
+          {
+            "experience": "Нет опыта",
+            "n": 1,
+            "median_salary": 60000.0
+          },
+          {
+            "experience": "Более 6 лет",
+            "n": 1,
+            "median_salary": 350000.0
+          }
+        ],
+        "target": [
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 5,
+            "median_salary": 400000.0
+          },
+          {
+            "experience": "Нет опыта",
+            "n": 1,
+            "median_salary": 60000.0
+          }
+        ]
+      }
+    },
+    {
+      "k": 2,
+      "direction": "decrease",
+      "skills": [
+        "html",
+        "typescript"
+      ],
+      "groups": {
+        "base": [
+          {
+            "experience": "От 1 года до 3 лет",
+            "n": 12,
+            "median_salary": 150000.0
+          },
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 8,
+            "median_salary": 205000.0
+          },
+          {
+            "experience": "Нет опыта",
+            "n": 5,
+            "median_salary": 40000.0
+          },
+          {
+            "experience": "Более 6 лет",
+            "n": 2,
+            "median_salary": 150000.0
+          }
+        ],
+        "target": [
+          {
+            "experience": "Нет опыта",
+            "n": 3,
+            "median_salary": 40000.0
+          },
+          {
+            "experience": "От 1 года до 3 лет",
+            "n": 1,
+            "median_salary": 150000.0
+          },
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 1,
+            "median_salary": 180000.0
+          }
+        ]
+      }
+    },
+    {
+      "k": 3,
+      "direction": "increase",
+      "skills": [
+        "java",
+        "solid",
+        "ооп"
+      ],
+      "groups": {
+        "base": [
+          {
+            "experience": "От 1 года до 3 лет",
+            "n": 21,
+            "median_salary": 100000.0
+          },
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 19,
+            "median_salary": 200000.0
+          },
+          {
+            "experience": "Нет опыта",
+            "n": 6,
+            "median_salary": 55000.0
+          }
+        ],
+        "target": [
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 4,
+            "median_salary": 310000.0
+          },
+          {
+            "experience": "Нет опыта",
+            "n": 1,
+            "median_salary": 47500.0
+          }
+        ]
+      }
+    },
+    {
+      "k": 3,
+      "direction": "decrease",
+      "skills": [
+        "javascript",
+        "react",
+        "typescript"
+      ],
+      "groups": {
+        "base": [
+          {
+            "experience": "От 1 года до 3 лет",
+            "n": 4,
+            "median_salary": 200000.0
+          },
+          {
+            "experience": "Нет опыта",
+            "n": 3,
+            "median_salary": 40000.0
+          },
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 2,
+            "median_salary": 250000.0
+          }
+        ],
+        "target": [
+          {
+            "experience": "Нет опыта",
+            "n": 3,
+            "median_salary": 40000.0
+          },
+          {
+            "experience": "От 3 до 6 лет",
+            "n": 2,
+            "median_salary": 250000.0
+          }
+        ]
+      }
+    }
+  ]
+}
